@@ -3,5 +3,6 @@ Wenn sie mehr über das Teklab Webinterface erfahren möchten schauen sie bitte 
 
 Ein Orginal Video von der Firma die mich beauftragt hatte das Produkt zu erstellen.
 Hier stellen sie vor wie sie damit ihre Gameserver automatistiert verwalten konnte.
+Und durch die Software konnte man viel Zeit sparren und sie in wichtigere Dinge investieren.
 
 https://www.youtube.com/watch?v=I77c88Vi01U&t=3s

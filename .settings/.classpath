@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/ftplet-api-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/ftpserver-core-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/jcl-over-slf4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/mina-core-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/slf4j-log4j12-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/spring-beans-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/spring-context-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/lib/spring-core-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/jdom-2.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/jdom-2.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Steekarlkani/Desktop/zip4j_1.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

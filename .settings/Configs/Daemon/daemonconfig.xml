@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Server><Config><ftpip>127.0.0.1</ftpip><ftpport>2500</ftpport><ftpusername>steekarlkani</ftpusername><ftppassword>test</ftppassword><ftppfad>C:\Admin</ftppfad><daemonport>3000</daemonport><daemonpasswort>test</daemonpasswort><kundenpfad>C:\Kunden</kundenpfad><status>0</status></Config></Server>

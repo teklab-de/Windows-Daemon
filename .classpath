@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace/server_lib/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace/server_lib/slf4j-log4j12-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace/server_lib/zip4j_1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace/server_lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/server_lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/server_lib/ftpserver-core-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/server_lib/mina-core-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/server_lib/ftplet-api-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="server_lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="server_lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="server_lib/ftplet-api-1.0.6.jar"/>
+	<classpathentry kind="lib" path="server_lib/ftpserver-core-1.0.6.jar"/>
+	<classpathentry kind="lib" path="server_lib/jcl-over-slf4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="server_lib/jdom-2.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="server_lib/jdom-2.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="server_lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="server_lib/mina-core-2.0.4.jar"/>
+	<classpathentry kind="lib" path="server_lib/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="server_lib/slf4j-log4j12-1.5.2.jar"/>
+	<classpathentry kind="lib" path="server_lib/spring-beans-2.5.5.jar"/>
+	<classpathentry kind="lib" path="server_lib/spring-context-2.5.5.jar"/>
+	<classpathentry kind="lib" path="server_lib/spring-core-2.5.5.jar"/>
+	<classpathentry kind="lib" path="server_lib/zip4j_1.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
